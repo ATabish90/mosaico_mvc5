@@ -1,0 +1,14 @@
+{
+  "name": "juice",
+  "homepage": "https://github.com/Automattic/juice",
+  "version": "3.0.1",
+  "_release": "3.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.0.1",
+    "commit": "31785b4ee1e498affb05e4fde3f262203a74b3c6"
+  },
+  "_source": "git://github.com/Automattic/juice.git",
+  "_target": "~3.0.1",
+  "_originalSource": "Automattic/juice"
+}

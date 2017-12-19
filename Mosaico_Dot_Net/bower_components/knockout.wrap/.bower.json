@@ -1,0 +1,13 @@
+{
+  "name": "knockout.wrap",
+  "homepage": "https://github.com/bago/knockout.wrap",
+  "_release": "6d45d1e282",
+  "_resolution": {
+    "type": "branch",
+    "branch": "mosaico",
+    "commit": "6d45d1e2822119dc3adee92be41b27306800ef37"
+  },
+  "_source": "git://github.com/bago/knockout.wrap.git",
+  "_target": "mosaico",
+  "_originalSource": "bago/knockout.wrap"
+}

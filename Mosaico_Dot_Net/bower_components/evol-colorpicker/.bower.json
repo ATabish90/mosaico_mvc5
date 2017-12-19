@@ -1,0 +1,34 @@
+{
+  "name": "evol.colorpicker",
+  "description": "jQuery UI widget for web color picking which looks like the one in Microsoft Office 2010.",
+  "homepage": "http://evoluteur.github.io/colorpicker/",
+  "main": [
+    "js/evol.colorpicker.min.js",
+    "css/evol.colorpicker.min.css"
+  ],
+  "authors": [
+    {
+      "name": "Olivier Giulieri",
+      "homepage": "https://github.com/evoluteur"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "colorpicker",
+    "color",
+    "jquery",
+    "jquery-ui",
+    "widget",
+    "ui",
+    "web"
+  ],
+  "_release": "8614d91c6f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "mosaico",
+    "commit": "8614d91c6f17e5bc3d2e7e406401ce6c463908ba"
+  },
+  "_source": "git://github.com/bago/colorpicker.git",
+  "_target": "mosaico",
+  "_originalSource": "bago/colorpicker"
+}

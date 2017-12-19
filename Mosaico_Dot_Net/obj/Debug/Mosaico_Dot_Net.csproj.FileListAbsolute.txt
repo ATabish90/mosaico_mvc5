@@ -1,0 +1,12 @@
+E:\Tabish\Practice\Mosaico_Dot_Net\Mosaico_Dot_Net\bin\Mosaico_Dot_Net.dll.config
+E:\Tabish\Practice\Mosaico_Dot_Net\Mosaico_Dot_Net\bin\Mosaico_Dot_Net.dll
+E:\Tabish\Practice\Mosaico_Dot_Net\Mosaico_Dot_Net\bin\Mosaico_Dot_Net.pdb
+E:\Tabish\Practice\Mosaico_Dot_Net\Mosaico_Dot_Net\obj\Debug\Mosaico_Dot_Net.dll
+E:\Tabish\Practice\Mosaico_Dot_Net\Mosaico_Dot_Net\obj\Debug\Mosaico_Dot_Net.pdb
+E:\Tabish\Practice\Mosaico_Dot_Net\Mosaico_Dot_Net\bin\Newtonsoft.Json.dll
+E:\Tabish\Practice\Mosaico_Dot_Net\Mosaico_Dot_Net\bin\System.Net.Http.Formatting.dll
+E:\Tabish\Practice\Mosaico_Dot_Net\Mosaico_Dot_Net\bin\System.Web.Http.WebHost.dll
+E:\Tabish\Practice\Mosaico_Dot_Net\Mosaico_Dot_Net\bin\Newtonsoft.Json.xml
+E:\Tabish\Practice\Mosaico_Dot_Net\Mosaico_Dot_Net\bin\System.Net.Http.Formatting.xml
+E:\Tabish\Practice\Mosaico_Dot_Net\Mosaico_Dot_Net\bin\System.Web.Http.WebHost.xml
+E:\Tabish\Practice\Mosaico_Dot_Net\Mosaico_Dot_Net\obj\Debug\Mosaico_Dot_Net.csprojResolveAssemblyReference.cache

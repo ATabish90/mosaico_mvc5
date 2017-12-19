@@ -1,0 +1,23 @@
+{
+  "name": "knockout-undomanager",
+  "homepage": "https://github.com/bago/knockout-undomanager",
+  "ignore": [
+    "**/.*"
+  ],
+  "main": [
+    "knockout-undomanager.js"
+  ],
+  "dependencies": {
+    "knockout": ">=3.0.0"
+  },
+  "version": "0.2.1",
+  "_release": "0.2.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.2.1",
+    "commit": "31d9e256c2ada5095a9162e28ec31b5b2e0f3967"
+  },
+  "_source": "https://github.com/bago/knockout-undomanager.git",
+  "_target": "~0.2.1",
+  "_originalSource": "knockout-undomanager"
+}
